@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hJukGuMHFtPo7FaqS5WxJpOOrhKcqPoGQTWqimjvxuUEIM2BXy7KTcBT3QwaqJL6FCgbtiuBXaUcxZPLqfyaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orhan\\Desktop\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\12-Sipariş Süreci\\6-Siparişlerin Listelenmesi\\shopapp\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orhan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\orhan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
